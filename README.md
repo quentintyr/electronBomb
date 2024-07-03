@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Electron%20Version-v31.1.0-blue)
 
 ## Automatically
-Download the script clone_and_setup.bat and run it
+Download the script clone_and_setup.bat and run it (currently not properly tested)
 
 ## Manually
 Clone the repository without checking out
